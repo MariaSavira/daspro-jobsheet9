@@ -13,4 +13,5 @@ public class ArrayNilai07 {
             System.out.println("Nilai akhir ke-" + i + " adalah " + nilaiAkhir[i]);
         }
     }
+    
 }
